@@ -1,7 +1,6 @@
 Sports analysis
 Randy Gomez
-This simulates how you have to analyze the results of the last 4 years of your college team. You have data files that list the results of every
-The event of the 10 schools in your division for several years.
+This simulates how you have to analyze the results of the last 4 years of your college team. You have data files that list the results of every event of the 10 schools in your division for several years.
 The program uses the users information brought into the terminal and check from two files that they want to compare, the two teams, then 
 The user only has to type the run line and then theyll get the results they need, see which ones tie or who has more wins and the such.
 To compile:
